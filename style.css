@@ -1,0 +1,42 @@
+div {
+/* tag selector */
+}
+
+#hello {
+/* id selector */
+}
+
+.hello {
+/* class selector */
+}
+
+* {
+    /* universal selector */
+}
+
+#hello1, #hello2 {
+    /* applies styling to both hello1 and hello2 */
+}
+
+div div div .b1 {
+    /* select specifically  */
+}
+
+button {
+
+    
+    padding: 20px;
+    
+}
+
+.outer {
+    width: 400px;
+    height: 400px;
+    border: 10px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    flex-direction: row;
+    align-items: center;
+    
+}
