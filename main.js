@@ -1,7 +1,19 @@
 console.log("Main.js is linked")
 
-document.getElementsByTagName("div")[0].innerHTML = "<h1> hello</h1>"
-document.querySelector(".demo").textContent = "<h1> hello</h1>"
-document.querySelectorAll(".demo")[0].textContent = "<h1> hello</h1>"
-document.getElementsByClassName("demo")[0].textContent = "<h1> hello</h1>"
-document.getElementById("hello").innerHTML = "<h1> hello</h1>"
+var themeToggler = document.createElement("button");
+themeToggler.textContent = "Switch to Dark Mode"
+
+themeToggler.className = "themeButton";
+
+document.querySelector("body").appendChild(themeToggler);
+
+themeToggler.onclick = () => toggleTheme();
+
+function toggleTheme() {
+    document.body.classList.toggle("dark");
+    if(themeToggler.textContent == "Switch to Dark Mode") {
+        themeToggler.textContent = "Switch to Light Mode"
+    } else {
+        themeToggler.textContent = "Switch to Dark Mode"
+    }
+}

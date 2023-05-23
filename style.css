@@ -2,21 +2,7 @@ div {
 /* tag selector */
 }
 
-#hello {
-/* id selector */
-}
 
-.hello {
-/* class selector */
-}
-
-* {
-    /* universal selector */
-}
-
-#hello1, #hello2 {
-    /* applies styling to both hello1 and hello2 */
-}
 
 div div div .b1 {
     /* select specifically  */
@@ -111,4 +97,9 @@ button {
         position: relative;    
         top: 20px;
     }
+}
+
+.dark {
+    background-color: rgb(44, 44, 44);
+    color: rgb(217, 220, 223);
 }
