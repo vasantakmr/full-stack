@@ -1,19 +1,13 @@
 console.log("Main.js is linked")
 
-var themeToggler = document.createElement("button");
-themeToggler.textContent = "Switch to Dark Mode"
-
-themeToggler.className = "themeButton";
-
-document.querySelector("body").appendChild(themeToggler);
-
-themeToggler.onclick = () => toggleTheme();
-
-function toggleTheme() {
-    document.body.classList.toggle("dark");
-    if(themeToggler.textContent == "Switch to Dark Mode") {
-        themeToggler.textContent = "Switch to Light Mode"
-    } else {
-        themeToggler.textContent = "Switch to Dark Mode"
-    }
+for(i = 0; i < document.getElementsByClassName("topic").length; i++) {
+    document.getElementsByClassName("topic")[i].setAttribute("style", "background-color: red; color: white") 
 }
+
+document.getElementById("topic").setAttribute("style", "background-color: black; color: white") 
+
+for(i = 0; i < document.getElementsByTagName("h3").length; i++) {
+    document.getElementsByTagName("h3")[i].setAttribute("style", "background-color: violet; color: white") 
+}
+
+document.querySelector(".item").parentElement.setAttribute("style", "background-color: violet") 

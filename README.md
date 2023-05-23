@@ -29,35 +29,48 @@ Recording Link:https://gurucodesio-my.sharepoint.com/:v:/g/personal/vasant_guruc
 
 # Things we discussed on Day 3:
 
-More about FlexBox
-Dropdown
-Z-index
-position tag: relative, fixed, sticky, absolute
-overflow
-max-width
+1. More about FlexBox
+2. Dropdown
+3. Z-index
+4. position tag: relative, fixed, sticky, absolute
+5. overflow
+6. max-width
 
 Recording link: https://gurucodesio-my.sharepoint.com/:v:/g/personal/vasant_gurucodes_dev/Edrwdv5KYKlCi8_1gT4p-zEB_ADVd84_NJ4kma84HV0dmQ?e=wEKYDu
 
 
 # Things we discussed on Day 4:
 
-Why Minification?
-Bootstrap
-Animations
-!important property
-Loaders
-Tailwindcss
+1. Why Minification?
+2. Bootstrap
+3. Animations
+4. !important property
+5. Loaders
+6. Tailwindcss
 
 Recording Link: https://gurucodesio-my.sharepoint.com/:v:/g/personal/vasant_gurucodes_dev/EYOGk8eL8FBAhPuRrNgA3rkBRiE3_moWiJigWqcrKeK8Fw?e=aaujqa
 
 
 # Things we discussed on Day 5:
 
-Client server architecture
-What happens when we type a url in the browser
-How browsers work?
-DOM, CSSOM, BOM
-document, window
-DOM Manipulation Introduction
+1. Client server architecture
+2. What happens when we type a url in the browser
+3. How browsers work?
+4. DOM, CSSOM, BOM
+5. document, window
+6. DOM Manipulation Introduction
 
 Recording link: https://gurucodesio-my.sharepoint.com/:v:/g/personal/vasant_gurucodes_dev/Efw_IRjLJjJBusno1usz2ooBLd1cK7iUeGkGLqVgZ6QSKw?e=Mft3qI
+
+
+# Things we discussed on Day 6:
+
+1. Creating new element
+2. append and appendChild property
+3. how to set/get attributes of any element
+4. Dark/Light Mode Demo
+5. className, classList and toggle property in classList
+6. changing style from js
+7. Placement of script tag
+
+Recording link: https://gurucodesio-my.sharepoint.com/:v:/g/personal/vasant_gurucodes_dev/EbUTXjF1tRFFvbNS267KQ98BJe7hp92_hX8alusYtUeLKw?e=BVegi9
