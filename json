@@ -1,0 +1,55 @@
+{} = object
+[] = arrays
+
+
+json data types: 
+array
+object
+number
+string
+null
+bool
+
+Reasons for json being lightweight: 
+1. json is text 
+2. js is the language of web. easy to parse
+3. its shorter
+4. more practical when compared to xml.
+
+
+JSON:
+
+{
+    images: ["", "", "", ""]
+}
+
+XML:
+
+<Images>
+    <Image>""</Image>
+    <Image>""</Image>
+    <Image>""</Image>
+    <Image>""</Image>
+</Images>
+
+public class Image {
+
+}
+
+public class Images{
+    ArrayList<Image> images;
+    String FirstName
+}
+
+
+obj = {
+    images: ["", "", "", ""],
+    firstname: ""
+}
+
+obj.images[0]
+
+JSON.parse('{"ajay" : ["a", "b"], "ryan" : "c"  }')
+
+
+JSON.parse('["a", "a", "v", "f"]')

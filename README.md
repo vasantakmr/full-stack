@@ -86,3 +86,13 @@ Recording link: https://gurucodesio-my.sharepoint.com/:v:/g/personal/vasant_guru
 
 Recording Link: https://gurucodesio-my.sharepoint.com/:v:/g/personal/vasant_gurucodes_dev/EcJh4etFBO9Kjsq1RgbcifYBF3FYPjDafGHmrSksxynWrA?e=u3KVRq
 
+
+Day 8:
+
+1. JSON: Intro, Visualization
+2. Compared with XML, POJO
+3. JSON Data Types
+4. Accessing JSON using . operator and also using [], for in loop
+5. parse and stringify. 
+
+

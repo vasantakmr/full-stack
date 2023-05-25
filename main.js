@@ -1,13 +1,8 @@
-console.log(obj) //undefined
-obj = 10;
-
-console.log(obj) //10
-
-var obj = 30;
+var obj = JSON.parse('{"ajay" : ["a", "b"], "ryan" : "c", "ajsay" : ["a", "b"], "rysan" : "c", "ajday" : ["a", "b"], "rdfyan" : "c"  }')
 
 
-console.log(obj) //30
+for(let key in obj) {
+    console.log(obj[key]);
+}
 
-obj = 20;
-console.log(obj) 20
 
