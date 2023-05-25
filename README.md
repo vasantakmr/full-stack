@@ -74,3 +74,15 @@ Recording link: https://gurucodesio-my.sharepoint.com/:v:/g/personal/vasant_guru
 7. Placement of script tag
 
 Recording link: https://gurucodesio-my.sharepoint.com/:v:/g/personal/vasant_gurucodes_dev/EbUTXjF1tRFFvbNS267KQ98BJe7hp92_hX8alusYtUeLKw?e=BVegi9
+
+
+
+# Things we discussed on Day 7:
+
+1. Variables, naming conventions
+2. let, var, const: related to reference not value
+3. scopes, data types, typeof
+4. Hoisting
+
+Recording Link: https://gurucodesio-my.sharepoint.com/:v:/g/personal/vasant_gurucodes_dev/EcJh4etFBO9Kjsq1RgbcifYBF3FYPjDafGHmrSksxynWrA?e=u3KVRq
+

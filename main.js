@@ -1,13 +1,13 @@
-console.log("Main.js is linked")
+console.log(obj) //undefined
+obj = 10;
 
-for(i = 0; i < document.getElementsByClassName("topic").length; i++) {
-    document.getElementsByClassName("topic")[i].setAttribute("style", "background-color: red; color: white") 
-}
+console.log(obj) //10
 
-document.getElementById("topic").setAttribute("style", "background-color: black; color: white") 
+var obj = 30;
 
-for(i = 0; i < document.getElementsByTagName("h3").length; i++) {
-    document.getElementsByTagName("h3")[i].setAttribute("style", "background-color: violet; color: white") 
-}
 
-document.querySelector(".item").parentElement.setAttribute("style", "background-color: violet") 
+console.log(obj) //30
+
+obj = 20;
+console.log(obj) 20
+
