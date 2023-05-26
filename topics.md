@@ -42,3 +42,7 @@ ASSIGNMENTS
 todo: 
 1. Practical usecase of variables hoisting
 2. Testing dummy json responses
+
+3. \\ prints both 
+
+\t
