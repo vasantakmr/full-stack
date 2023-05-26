@@ -1,21 +1,10 @@
-var obj = JSON.parse('{"ajay" : ["a", "b"], \
- "ryan" : "c", "ajsay" : ["a", "b"], "rysan" \
- : "c", "ajday" : ["a", "b"], "rdfyan" : "c"  \
- }')
+str = "900"
 
+str = "sdjsdhhsd"
 
-for(let key in obj) {
-    console.log(obj[key]);
+str1 = "900"
+
+if(str == str1) {
+    console.log("equal")
 }
-
-
-str = "helloworld" + "dsdsd"
-
-
-for(i =0; i<str.length; i++) {
-    console.log(str[i]);
-}
-
-
-console.log(i)
 
