@@ -46,3 +46,5 @@ todo:
 3. \\ prints both 
 
 \t
+
+4. make sure the date is always of the same lenght. if not, add padding. assignment

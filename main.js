@@ -1,10 +1,19 @@
-str = "900"
+var fNameInputElement = document.querySelector(".fname");
 
-str = "sdjsdhhsd"
+fNameInputElement.addEventListener("change", handleInput);
 
-str1 = "900"
 
-if(str == str1) {
-    console.log("equal")
+
+function handleInput() {
+    //console.dir(fNameInputElement)
+    console.log(fNameInputElement.value);
+    
+    input = fNameInputElement.value
+    initialString = "Hello";
+
+    console.log(initialString + input)
 }
+
+
+
 

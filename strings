@@ -1,11 +1,5 @@
 str = 'sdhfhjgdjfj"fdhf'
 
+startDate = new Date();
 
-// 1. performance comparision
-// s = "big string"
-
-// start the timer. 
-
-// for loop on whole string and access each character in eitherby [] or by charAt()
-
-//stop the timer. 
+console.log(startDate)
