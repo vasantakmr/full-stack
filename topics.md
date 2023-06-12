@@ -9,7 +9,7 @@
 7. Array methods
 8. ~Dates~
 9. Operators
-10. if/else
+10. ~if/else~
 11. loops: for forin, foreach, while
 12. functions: regular function. function as a variable, arrow functions, iife
 13. JS classes and objects
