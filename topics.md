@@ -1,13 +1,13 @@
 # Javascript and Web
 
-1. Variables
-2. Data Types
-3. Strings, string manipulation, methods of string object.
+1. ~Variables~
+2. ~Data Types~
+3. ~Strings, string manipulation, methods of string object.~
 4. Objects
 5. Events
 6. Arrays
 7. Array methods
-8. Dates
+8. ~Dates~
 9. Operators
 10. if/else
 11. loops: for forin, foreach, while
@@ -20,7 +20,7 @@
 18. async/await
 19. OOPS 
 20. Hoisting
-21. JSON
+21. ~JSON~
 22. Closures
 23. prototypes
 
@@ -48,3 +48,5 @@ todo:
 \t
 
 4. make sure the date is always of the same lenght. if not, add padding. assignment
+
+[] charAt()
