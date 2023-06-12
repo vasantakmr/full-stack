@@ -54,3 +54,6 @@ todo:
 is having More if elses a good practice?
 
  why this didnt get loaded compareCharAtandSquareBrackets.js
+
+ Bitwise indexing
+ 
