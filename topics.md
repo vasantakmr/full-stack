@@ -50,3 +50,7 @@ todo:
 4. make sure the date is always of the same lenght. if not, add padding. assignment
 
 [] charAt()
+
+is having More if elses a good practice?
+
+ why this didnt get loaded compareCharAtandSquareBrackets.js
